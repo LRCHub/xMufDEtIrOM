@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "みなごろし",
+  "base_artist": "なきそ",
+  "createdAt": "2025-12-04T12:42:47.214803Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "みなごろし",
+      "artist": "なきそ",
+      "has_synced": false,
+      "path": "select/pl_01_みなごろし_なきそ.txt"
+    }
+  ]
+}
